@@ -1,0 +1,7 @@
+git config --global user.name "name"  -----> define usuario
+git config --global user.email "email"  -----> define email
+git add . ----> commit de todo lo dela carpeta
+git add <FILE> ----> commit archivo
+git commit -m "REF"  ----> hacer el comit con referencia
+git show Historia.txt    ------> ver los cambios de un archivo
+
